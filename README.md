@@ -68,3 +68,4 @@ The application uses SQL Server with a database named `RaceDayDB`. The database 
 
 GitHub Actions is used to build the project automatically when changes are pushed to GitHub. A successful build is shown by a green tick in the Actions tab.
 
+
